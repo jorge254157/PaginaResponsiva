@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="20px" viewBox="0 0 20 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Iconography/Yes</title>
+    <defs>
+        <path d="M1.67463387,0.424212759 L2.23632167,0.993867759 L8.25232387,7.09521276 L8.82354046,7.64899115 L8.81032387,7.66121276 L8.82365049,7.67463387 L8.26676183,8.22344529 L5.57445414,11.0012231 L5.01767551,11.5756772 L3.86876723,10.46212 L4.42554586,9.88766582 L6.57332387,7.67121276 L1.09701167,2.11724335 L0.53532387,1.54758835 L1.67463387,0.424212759 Z" id="path-1"></path>
+    </defs>
+    <g id="Iconography/Yes" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="arrow-link-small" transform="translate(10.000000, 9.500000) rotate(-270.000000) translate(-10.000000, -9.500000) translate(5.500000, 3.500000)">
+            <mask id="mask-2" fill="white">
+                <use xlink:href="#path-1"></use>
+            </mask>
+            <use id="Combined-Shape" fill="#000000" fill-rule="nonzero" xlink:href="#path-1"></use>
+            <g id="Group" mask="url(#mask-2)">
+                <g transform="translate(-5.000000, -4.000000)" id="Stylekit/Colour/Black">
+                    <rect id="Rectangle-6" fill="#000000" fill-rule="nonzero" x="0" y="0" width="20" height="20"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
